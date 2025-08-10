@@ -1,4 +1,5 @@
-# Mortgage-Calculator
+# Mortgage Calculator
+
 A simple, modern web-based mortgage calculator built with HTML, CSS, and JavaScript.
 
 ## Features
@@ -18,7 +19,7 @@ A simple, modern web-based mortgage calculator built with HTML, CSS, and JavaScr
 Open `index.html` in your web browser. No installation required.
 
 ## Deployment
- Azure Static Web Apps, GitHub Pages, or any static hosting provider.
+Azure Static Web Apps, GitHub Pages, or any static hosting provider.
 
 ## License
 MIT
