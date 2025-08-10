@@ -18,7 +18,7 @@ A simple, modern web-based mortgage calculator built with HTML, CSS, and JavaScr
 Open `index.html` in your web browser. No installation required.
 
 ## Deployment
-You can deploy this site to Azure Static Web Apps, GitHub Pages, or any static hosting provider.
+ Azure Static Web Apps, GitHub Pages, or any static hosting provider.
 
 ## License
 MIT
