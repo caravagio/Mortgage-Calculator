@@ -19,7 +19,8 @@ A simple, modern web-based mortgage calculator built with HTML, CSS, and JavaScr
 Open `index.html` in your web browser. No installation required.
 
 ## Deployment
-Azure Static Web Apps, GitHub Pages, or any static hosting provider.
+ GitHub Pages  https://caravagio.github.io/Mortgage-Calculator/
 
 ## License
 MIT
+
